@@ -1,0 +1,6 @@
+{
+  "appId": "com.dialpro.app",
+  "appName": "Dialer Pro",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

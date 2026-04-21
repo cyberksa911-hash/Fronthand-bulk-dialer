@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785410971133",
+    "project_id": "dialerpro911",
+    "storage_bucket": "dialerpro911.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785410971133:android:17b1a679e372df8b7c7594",
+        "android_client_info": {
+          "package_name": "com.dialpro.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8-HNJ78rfzM3YnFiL-cocoIpEWvt1rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
